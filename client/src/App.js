@@ -75,7 +75,7 @@ export default function App() {
       <header className="hero">
         <div className="logo-row">
           <IconSpark />
-          <span className="brand">Wand AI</span>
+          <span className="brand">Wankanda AI</span>
         </div>
         <div>
           <h1 className="headline">Knowledge Base. Reimagined.</h1>
@@ -131,7 +131,7 @@ export default function App() {
         <RecentUploads items={recentUploads} />
       </Section>
       <footer>
-        <a href="https://wand.ai" target="_blank" rel="noreferrer">Wand AI</a>
+        <a href="https://arhamirfan.lovable.app/" target="_blank" rel="noreferrer">Wand AI</a>
       </footer>
     </div>
   )
